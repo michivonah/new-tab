@@ -18,5 +18,5 @@ A minimalistic new tab page
 1. Click on Safari -> Settings in the menubar
 1. Select general
 1. Select Homepage as default page for new tabs
-1. Set <INSERT URL HERE> as your homepage
+1. Set ntpage.michivonah.ch as your homepage
 1. Finish
