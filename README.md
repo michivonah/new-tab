@@ -1,6 +1,11 @@
 # new-tab
 A minimalistic new tab page
 
+# Planned featueres
+- Auto language adjustation
+- Search feature on type
+- AI Integration (OpenAI API Recommendation, set API_KEY in localstorage)
+
 # Setup guide
 ## Firefox
 
